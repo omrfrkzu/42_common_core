@@ -1,1 +1,0 @@
-42-common-core
